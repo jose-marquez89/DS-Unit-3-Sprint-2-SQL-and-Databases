@@ -1,0 +1,14 @@
+1,admin,logentry
+2,auth,user
+3,auth,group
+4,auth,permission
+5,contenttypes,contenttype
+6,sessions,session
+7,armory,item
+8,armory,weapon
+9,charactercreator,character
+10,charactercreator,mage
+11,charactercreator,thief
+12,charactercreator,cleric
+13,charactercreator,fighter
+14,charactercreator,necromancer

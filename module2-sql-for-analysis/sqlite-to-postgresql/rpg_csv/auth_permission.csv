@@ -1,0 +1,42 @@
+1,1,add_logentry,Can add log entry
+2,1,change_logentry,Can change log entry
+3,1,delete_logentry,Can delete log entry
+4,2,add_user,Can add user
+5,2,change_user,Can change user
+6,2,delete_user,Can delete user
+7,3,add_group,Can add group
+8,3,change_group,Can change group
+9,3,delete_group,Can delete group
+10,4,add_permission,Can add permission
+11,4,change_permission,Can change permission
+12,4,delete_permission,Can delete permission
+13,5,add_contenttype,Can add content type
+14,5,change_contenttype,Can change content type
+15,5,delete_contenttype,Can delete content type
+16,6,add_session,Can add session
+17,6,change_session,Can change session
+18,6,delete_session,Can delete session
+19,7,add_item,Can add item
+20,7,change_item,Can change item
+21,7,delete_item,Can delete item
+22,8,add_weapon,Can add weapon
+23,8,change_weapon,Can change weapon
+24,8,delete_weapon,Can delete weapon
+25,9,add_character,Can add character
+26,9,change_character,Can change character
+27,9,delete_character,Can delete character
+28,10,add_mage,Can add mage
+29,10,change_mage,Can change mage
+30,10,delete_mage,Can delete mage
+31,11,add_thief,Can add thief
+32,11,change_thief,Can change thief
+33,11,delete_thief,Can delete thief
+34,12,add_cleric,Can add cleric
+35,12,change_cleric,Can change cleric
+36,12,delete_cleric,Can delete cleric
+37,13,add_fighter,Can add fighter
+38,13,change_fighter,Can change fighter
+39,13,delete_fighter,Can delete fighter
+40,14,add_necromancer,Can add necromancer
+41,14,change_necromancer,Can change necromancer
+42,14,delete_necromancer,Can delete necromancer
